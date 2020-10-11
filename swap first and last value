@@ -1,0 +1,7 @@
+# To swap first and last value of a list
+# initialize a list
+a=[0,1,4,6,2,9,8,3,56,77]
+#swap first and last value
+a[0],a[-1]=a[-1],a[0]
+print(a)
+#output= [77,1,4,6,2,9,8,3,56,0]
