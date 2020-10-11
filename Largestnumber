@@ -1,0 +1,6 @@
+# To find largest number in list
+#initialise a list
+a=[1,4,6,3,9,34]
+#Find the max value
+max(a)
+# Output= 34
