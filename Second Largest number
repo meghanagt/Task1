@@ -1,0 +1,8 @@
+# To find second largest number in a list
+# initialize a list
+a=[1,9,5,8,3,34]
+#sort a list
+a.sort()
+#find second largest number
+print(a[-2])
+#output= 9
